@@ -1,0 +1,3 @@
+Ajouter l'alias pour la francinette dans fish :
+
+alias --save francinette=/home/ethrober/francinette/tester.sh
